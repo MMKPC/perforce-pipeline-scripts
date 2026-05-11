@@ -6,7 +6,6 @@ Blocks submits that contain assets violating naming/extension rules.
 
 from __future__ import annotations
 import re
-import sys
 from typing import Any
 
 try:
