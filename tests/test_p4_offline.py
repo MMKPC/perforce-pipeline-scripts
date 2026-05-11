@@ -7,7 +7,7 @@ Run with: pytest tests/
 import sys
 import types
 import unittest
-from unittest.mock import MagicMock, patch, PropertyMock
+from unittest.mock import patch
 
 
 # ── P4 mock ───────────────────────────────────────────────────────────────────
